@@ -1,0 +1,77 @@
+
+h1 {
+    background-color: #004175;
+    border-bottom: 5px solid #89DEEF;
+    padding: 30px;
+    font-family: "Open Sans";
+    color: white;
+    margin: auto; 
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+
+}
+
+h2 {padding-left: 45px;
+    font-family:"Open Sans";
+}
+
+.content-wrapper {  margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    background: white;
+}
+
+body {background-color: #d3d3d3;
+    margin-top: 0px;
+}
+
+.content {background-color: white;
+    padding-left: 30px;}
+
+.flexbox-container1 {
+    display:flex;
+
+    justify-content: space-around;
+    align-items: left;
+    justify-items: ;
+}
+
+.flexbox-item {
+    width: 300px;
+    border: 3px solid black;
+
+}
+
+.flexbox-item-1 {
+    width: 200px;
+    min-height: 200px;
+}
+.beanspic {
+    width: 200px;
+    height: auto;
+}
+
+.beansTitle {
+    margin-top: 0px;
+    font-family: "Open Sans";
+    margin: 0;
+}
+
+.horizontalList ul{
+    display: inline;
+    margin: 0;
+
+}
+.horizontalList li {font-size: 10px;
+    margin: 0;
+    display: inline;
+    background-color: #89DEEF;
+    padding: 0;
+    padding-left: 0px;
+    list-style-type: none;
+    align-items: left;
+    border-width: 0;
+
+}
